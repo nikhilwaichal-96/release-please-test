@@ -11,8 +11,7 @@ This example demonstrates how to automate versioning and changelog generation fo
 
 This repository includes the following projects:
 
-1. **Cargo Crate**: A Hello World Rust project managed using Cargo.
-2. **React Project**: A Hello World JavaScript project built with React.
+1. **React Project**: A Hello World JavaScript project built with React.
 
 ## Key Files
 
